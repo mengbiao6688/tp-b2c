@@ -1,0 +1,10 @@
+{
+    "name": "mengbiao/composer",
+    "authors": [
+        {
+            "name": "MengBiao",
+            "email": "542197679@qq.com"
+        }
+    ],
+    "require": {}
+}
